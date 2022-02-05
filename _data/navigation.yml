@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Résumé"
-    url: /resume/
+    url: "https://docs.google.com/document/d/1ezOoCfWoomPA-sonmw0m6I_2NzDz44iuiDUs0O-TknQ/edit?usp=sharing"
   - title: "Projects"
     url: /projects/
   # - title: "Sample Collections"
