@@ -1,7 +1,7 @@
 {% capture logo_path %}{{ site.logo }}{% endcapture %}
 {% capture masthead_back_path %}{{ site.masthead_back }}{% endcapture %}
 
-<div class="masthead"
+<div class="page__hero--overlay-mast"
   style="{% if site.masthead_back %}background-image:url('{{ masthead_back_path | relative_url}}'){% endif %}">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
